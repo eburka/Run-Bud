@@ -12,3 +12,5 @@ A website that offers fittness trainging services.
 
  ## Contribution 
  Made with ❤️ by Elilta Burka 
+
+### ©️2019 Run Buddy, Inc
