@@ -1,14 +1,18 @@
-# Run Buddy 
+# Run Buddy Inc.
 
-## Purpose 
-A website that offers fittness trainging services. 
+## Purpose
 
-## Built With 
-* HTML 
-* CSS
+A website that offers fittness trainging services.
 
- ## Website 
- https://eburka.github.io/Run-Bud/
+## Built With
 
- ## Contribution 
- Made with ❤️ by Elilta Burka 
+- HTML
+- CSS
+
+## Website
+
+https://eburka.github.io/Run-Bud/
+
+## Contribution
+
+Made with ❤️ by Elilta Burka
